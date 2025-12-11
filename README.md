@@ -111,7 +111,7 @@ Paste the text available in this [page](https://gist.githubusercontent.com/occir
  
 | **Setting**                           | **Value**                                                   |
 |---------------------------------------|-------------------------------------------------------------|
-| Endpoint                              | https://indexmenow.occirank.fr/sse                           |
+| Endpoint                              | https://mcp.indexmenow.com/sse                           |
 | Server Transport                      | Server Sent Events                                          |
 | Authentication                        | Header Auth                                                 |
 | Credential for Header Auth            | Select the MCP credential you created earlier               |
